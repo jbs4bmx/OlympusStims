@@ -1,0 +1,152 @@
+{
+    "buffs": {
+        "BuffsApolloStim": [
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Endurance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Strength"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "StressResistance"
+            },
+            {
+                "BuffType": "MaxStamina",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "EnergyRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0.1,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "HydrationRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0.1,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "RemoveAllBloodLosses",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Immunity"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Perception"
+            },
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0.25,
+                "AbsoluteValue": false,
+                "SkillName": ""
+            }
+        ],
+        "BuffsApolloPain": [
+            {
+                "BuffType": "Pain",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0,
+                "AbsoluteValue": false,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "RemoveAllBloodLosses",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Immunity"
+            },
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 0.25,
+                "AbsoluteValue": false,
+                "SkillName": ""
+            }
+        ]
+    }
+}

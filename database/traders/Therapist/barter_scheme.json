@@ -1,0 +1,34 @@
+{
+    "apollosStim": [
+        [
+            {
+                "count": 2000,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+        ]
+    ],
+    "apollosPropital": [
+        [
+            {
+                "count": 2000,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+        ]
+    ],
+    "apollosPain": [
+        [
+            {
+                "count": 2000,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+        ]
+    ],
+    "apollosCMS": [
+        [
+            {
+                "count": 50000,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+        ]
+    ]
+}
