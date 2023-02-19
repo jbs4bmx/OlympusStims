@@ -130,7 +130,7 @@
             "medEffectType": "duringUse",
             "MaxHpResource": 4,
             "hpResourceRate": 0,
-            "StimulatorBuffs": "",
+            "StimulatorBuffs": "BuffsApollosPropital",
             "effects_health": {
                 "Energy": {
                     "value": 150

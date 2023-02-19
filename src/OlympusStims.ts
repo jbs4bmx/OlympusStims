@@ -1,8 +1,8 @@
 /**
  *      Name: OlympusStims
- *   Version: 350.0.1
+ *   Version: 350.0.2
  * Copyright: AssAssIn
- *    Update: [DMY] 13.02.2023
+ *    Update: [DMY] 18.02.2023
 */
 
 import { DependencyContainer } from "tsyringe";

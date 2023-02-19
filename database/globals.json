@@ -105,7 +105,7 @@
                 "Chance": 1,
                 "Delay": 1,
                 "Duration": 900,
-                "Value": 0.25,
+                "Value": 0.5,
                 "AbsoluteValue": false,
                 "SkillName": ""
             }
@@ -146,6 +146,44 @@
                 "Value": 0.25,
                 "AbsoluteValue": false,
                 "SkillName": ""
+            }
+        ],
+        "BuffsApollosPropital": [
+            {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 2,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 20,
+                "AbsoluteValue": true,
+                "SkillName": "Metabolism"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 20,
+                "AbsoluteValue": true,
+                "SkillName": "Health"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 20,
+                "AbsoluteValue": true,
+                "SkillName": "Vitality"
             }
         ]
     }
