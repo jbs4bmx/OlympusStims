@@ -25,6 +25,10 @@ Hmm... There doesn't appear to be anything here.
 #
 
 ### Changelog:
+351.0.1
+  - Update for SPT 3.5.1
+  - Adjust to new blacklist system.
+
 350.0.2 (The Big Buff Update)
   - Corrected small mistake that produced a json syntax error.
   - Added buffs to Apollos Propital so it will properly heal your PMC when used.

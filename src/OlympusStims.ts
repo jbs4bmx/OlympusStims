@@ -1,8 +1,8 @@
 /**
  *      Name: OlympusStims
- *   Version: 350.0.2
+ *   Version: 351.0.1
  * Copyright: AssAssIn
- *    Update: [DMY] 18.02.2023
+ *    Update: [DMY] 08.03.2023
 */
 
 import { DependencyContainer } from "tsyringe";
@@ -97,7 +97,10 @@ class Olympus implements IPreAkiLoadMod, IPostDBLoadMod
 
         if (typeof blacklistMeds === "boolean"){
             if (blacklistMeds === true) {
-                botConfig.pmc.dynamicLoot.blacklist.push("apollosStim","apollosPropital","apollosPain","apollosCMS");
+                //botConfig.pmc.dynamicLoot.blacklist.push("apollosStim","apollosPropital","apollosPain","apollosCMS");
+                botConfig.pmc.vestLoot.blacklist.push("apollosStim","apollosPropital","apollosPain","apollosCMS");
+                botConfig.pmc.pocketLoot.blacklist.push("apollosStim","apollosPropital","apollosPain","apollosCMS");
+                botConfig.pmc.backpackLoot.blacklist.push("apollosStim","apollosPropital","apollosPain","apollosCMS");
             }
         }
     }

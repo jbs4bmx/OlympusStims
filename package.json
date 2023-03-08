@@ -1,10 +1,10 @@
 {
 	"name": "OlympusStims",
-	"version": "350.0.2",
+	"version": "351.0.1",
 	"main": "src/OlympusStims.js",
 	"license": "NCSA",
 	"author": "AssAssIn",
-	"akiVersion": "3.5.0",
+	"akiVersion": "3.5.1",
     "scripts": {
         "setup:environment": "npm i",
         "build:unzipped": "copyfiles -e \"./node_modules/**/*.*\" -e \"./dist/**/*.*\" -e \"./package-lock.json\" -e \"./tsconfig.json\" -e \"./README.txt\" -e \"./mod.code-workspace\" \"./**/*.*\" ./dist",
