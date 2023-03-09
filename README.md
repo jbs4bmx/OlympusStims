@@ -25,6 +25,9 @@ Hmm... There doesn't appear to be anything here.
 #
 
 ### Changelog:
+352.0.1 (The BSG is a Twat Update)
+  - Update for SPT 3.5.2
+
 351.0.1
   - Update for SPT 3.5.1
   - Adjust to new blacklist system.
